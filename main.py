@@ -70,5 +70,3 @@ rows_to_write.sort(key=lambda x: x[0])
 # writing to output file
 for row in rows_to_write:
     result_csv.writerow(row)
-
-
