@@ -14,4 +14,7 @@ date, three letter country code, number of impressions, number of clicks
  ```
  
  Or use compiled files 
+ 
+## Example 
+   For example you can find test.csv (as input file) and output.csv (as output file) 
 
